@@ -1,7 +1,8 @@
 # Projet_intro_image
 
-Ce dépot github est le rendu du projet : Détection et identification de pièces de monnaies en euros
-Toute les fonctions implémentées sont dans le fichier main.ipynb et les images dans le dossier data. Le fichier data_annotation.csv contient le nom des images, le nombre de pieces de ces images et la sommes de ces pieces en euros.
+Ce dépot github est le rendu du projet : Détection et identification de pièces de monnaies en euros.
+Toute les fonctions implémentées sont dans le fichier main.ipynb et les images dans le dossier data. 
+Le fichier data_annotation.csv contient le nom des images, le nombre de pieces de ces images et la sommes de ces pieces en euros.
 
 ## Objectif
 
