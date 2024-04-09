@@ -16,7 +16,7 @@ Concevoir un programme permettant, à partir de cette image donnée en entrée, 
 
 ![screenshot](exemple2.png)
 
-## Résultats 
+## Résultats 
 
 Comptage de pieces : 69.34% d'image où les pieces sont correctement comptées.
 
