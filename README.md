@@ -15,3 +15,10 @@ Concevoir un programme permettant, à partir de cette image donnée en entrée, 
 ## Exemple de résultat pour la detection de valeur de pieces
 
 ![screenshot](exemple2.png)
+
+## Résultats 
+
+Comptage de pieces : 69.34% d'image où les pieces sont correctement comptées.
+
+
+Détection de valeur des pieces : MAE = 1.76 pour les images avec les pieces correctement comptées
