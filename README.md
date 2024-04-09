@@ -11,3 +11,7 @@ Concevoir un programme permettant, à partir de cette image donnée en entrée, 
 ## Exemple de résultat pour le comptage de pieces
 
 ![screenshot](exemple1.png)
+
+## Exemple de résultat pour la detection de valeur de pieces
+
+![screenshot](exemple2.png)
