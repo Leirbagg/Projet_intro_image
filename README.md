@@ -9,4 +9,4 @@ Concevoir un programme permettant, à partir de cette image donnée en entrée, 
 
 ## Exemple de résultat pour le comptage de pieces
 
-![alt text](https://github.com/[Leirbagg]/[Projet_intro_image]/blob/[main]/exemple1.webp?raw=true)
+![screenshot](exemple1.png)
